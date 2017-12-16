@@ -51,7 +51,10 @@ li:hover {
     margin-right: auto;
     height: 300px;
     overflow: hidden;
+}
 
+.vid{
+    height: 565px;
 }
 
 .content{
