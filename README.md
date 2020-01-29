@@ -7,7 +7,7 @@
 - Recife - Pernambuco
 - Site: https://viniciusoliveiraandrade.github.io/
 
-## Informações de contato
+### Contato
 - Celular: (87) 9.9970-2245
 - E-mail: viniciusibsm@gmail.com
 - Linkedin: https://www.linkedin.com/in/vinícius-de-oliveira-andrade-0005371a0
@@ -28,13 +28,13 @@ Bacharel em sistema de informações, com foco em desenvolvimento de softwares v
 
 #### Web
 
-Back-End
-- Python (Django)
-- PHP
+- Back-End
+  - Python (Django)
+  - PHP
 
-Front-End
-- Bootstrap
-- Materialize
+- Front-End
+  - Bootstrap
+  - Materialize
 
 #### Desktop
 - Java
