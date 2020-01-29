@@ -4,11 +4,11 @@
 
 ## Informações Pessoais
 - Idade: 24 anos 
-- Cidade: Recife - Pernambuco
+- Recife - Pernambuco
 - Site: https://viniciusoliveiraandrade.github.io/
 
 ## Informações de contato
-- Telefone Móvel: (87) 9.9970-2245
+- Celular: (87) 9.9970-2245
 - E-mail: viniciusibsm@gmail.com
 - Linkedin: https://www.linkedin.com/in/vinícius-de-oliveira-andrade-0005371a0
 - Github: https://github.com/ViniciusOliveiraAndrade/
@@ -16,34 +16,41 @@
 
 
 ## Descrição
-Bacharel em sistema de informações, com foco em desenvolvimento de softwares voltados para WEB (front-end, back-end), desktop, e teste de software.
+Bacharel em sistema de informações, com foco em desenvolvimento de softwares voltados para WEB (front-end, back-end), desktop e teste de software.
 
 ## Formação
 - (2019 - 2020) Residência em Software no convênio CIn/Motorola - Programa de Pós-Graduação em Engenharia de Software com foco em Teste de Software na Universidade Federal de Pernambuco;  (Em andamento)
 - (2014 - 2018) Bacharelado em Sistema de Informações - Unidade Acadêmica de Serra Talhada/ Universidade Federal Rural de Pernambuco. (Concluído)
 
 ## Conhecimentos
-Desenvolvimento Web (Back-End)
+
+### Desenvolvimento
+
+#### Web
+
+Back-End
 - Python (Django)
 - PHP
 
-Desenvolvimento Web (Front-End)
+Front-End
 - Bootstrap
 - Materialize
 
-Desenvolvimento Desktop
+#### Desktop
 - Java
 
-Desenvolvimento de Aplicações Móveis (Limitado)
+#### Aplicações Móveis
 - Android Nativo
 - Firebase
 - Google Adsense
 
-Teste de Software
-- Testes Manuais
+### Teste de Software
+
+#### Testes Manuais
   - Regressão
   - Exploratório
-- Testes Automatizados
+
+#### Testes Automatizados
   - JUnit
   - EvoSuite
   - UIAutomator
@@ -51,12 +58,12 @@ Teste de Software
   - Selenium
   - AssertJ - Swing
 
-Banco de Dados
+### Banco de Dados
 - MySQL
 - PostgreSQL
 - Hibernate
 
-Outros
+### Outros
 - Processamento Digital de Imagens
 - Reconhecimento de Padrões
 - Desenvolvimento de Jogos
