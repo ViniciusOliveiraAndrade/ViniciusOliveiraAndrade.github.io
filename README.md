@@ -20,7 +20,7 @@ Bacharel em sistema de informações, com foco em desenvolvimento de softwares v
 
 ## Formação
 - (2019 - 2020) Residência em Software no convênio CIn/Motorola - Programa de Pós-Graduação em Engenharia de Software com foco em Teste de Software na Universidade Federal de Pernambuco;  (Em andamento)
-- (2014 - 2018) Bacharelado em Sistema de Informações - Unidade Acadêmica de Serra Talhada/ Universidade Federal Rural de Pernambuco. (Concluído)
+- (2014 - 2018) Bacharelado em Sistema de Informações - Unidade Acadêmica de Serra Talhada/ Universidade Federal Rural de Pernambuco - UAST/UFRPE. (Concluído)
 
 ## Conhecimentos
 
