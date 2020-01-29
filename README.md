@@ -1,4 +1,4 @@
-<img src="img/Profile.png" width="100" height="100" />
+<img src="img/Profile.png" width="150" height="200" />
 
 # Vinícius de Oliveira Andrade
 
@@ -31,7 +31,10 @@ Desenvolvimento Web (Front-End)
 - Bootstrap
 - Materialize
 
-Desenvolvimento de Aplicações Móveis
+Desenvolvimento Desktop
+- Java
+
+Desenvolvimento de Aplicações Móveis (Limitado)
 - Android Nativo
 - Firebase
 - Google Adsense
@@ -51,11 +54,12 @@ Teste de Software
 Banco de Dados
 - MySQL
 - PostgreSQL
+- Hibernate
 
 Outros
 - Processamento Digital de Imagens
 - Reconhecimento de Padrões
-- Jogos Desktop
+- Desenvolvimento de Jogos
 
 ## Experiência Profissional
 - (Março de 2019 - Atual) Bolsista - Projeto CIn/Motorola
