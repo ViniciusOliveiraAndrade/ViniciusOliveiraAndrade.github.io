@@ -30,7 +30,6 @@ Bacharel em sistema de informações, com foco em desenvolvimento de softwares v
 
 - Back-End
   - Python (Django)
-  - PHP
 
 - Front-End
   - Bootstrap
